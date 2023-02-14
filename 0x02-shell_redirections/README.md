@@ -45,3 +45,5 @@ Task 20- script that removes all letters c and C from input
 TASK 21- script that reverse its input
 
 Task 22- displays all users and their home directories, sorted by users
+
+Task 23- 
