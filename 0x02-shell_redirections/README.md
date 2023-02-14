@@ -3,3 +3,5 @@ This is my first shell redirections readme file
 Task 0- prints “Hello, World”, followed by a new line to the standard output
 
 Task 1- displays a confused smiley "(Ôo)'
+
+Task 2- Display the content of the /etc/passwd file
