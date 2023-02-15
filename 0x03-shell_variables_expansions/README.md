@@ -25,3 +25,11 @@ Task 11- A script that convertsa number from base 2 to base 10
 Task 12- A script that prints all possible combinations of two letters, except 
 
 Task 13- Ascript that prints a number with two decimal places, followed by a new line
+
+Task 14- A script that converts a number from base 10(stored in the environment variable DECIMAL) to base 16. 
+
+Task 15- A script that encodes and decodes text using the rot13 encryption. Assume ASCII
+
+Task 16- A script that prints every other line from the input, starting with the first line
+
+Task 17- A shell script that adds the two numbers stored inthe environment variables WATER(is in base water) and STIR(is in base stir) and prints the result. The result should be in base bestchol
