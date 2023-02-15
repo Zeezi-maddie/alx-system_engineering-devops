@@ -1,2 +1,2 @@
 #!/bin/bash
-tree $PATH | tail -1
+echo $PATH |tr ':' '\n' | wc -1
