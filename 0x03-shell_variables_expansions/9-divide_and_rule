@@ -1,0 +1,3 @@
+#!/bin/bash
+ans=$(($POWER/$DIVIDE))
+echo $ans
